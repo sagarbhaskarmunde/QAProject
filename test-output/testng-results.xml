@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-23T00:25:50Z" name="Default suite" finished-at="2021-11-23T00:28:11Z" duration-ms="140284">
+    <groups>
+    </groups>
+    <test started-at="2021-11-23T00:25:50Z" name="Default test" finished-at="2021-11-23T00:28:11Z" duration-ms="140284">
+      <class name="com.crm.qa.testcases.FlipkartApp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.FlipkartApp@3eb77ea8]" started-at="2021-11-23T05:55:50Z" name="setUp" finished-at="2021-11-23T05:55:56Z" duration-ms="5275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFlipkartSearch()[pri:0, instance:com.crm.qa.testcases.FlipkartApp@3eb77ea8]" started-at="2021-11-23T05:55:56Z" name="verifyFlipkartSearch" finished-at="2021-11-23T05:58:11Z" duration-ms="134980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartSearch -->
+      </class> <!-- com.crm.qa.testcases.FlipkartApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
